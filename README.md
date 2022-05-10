@@ -1,0 +1,2 @@
+# QuadC
+Quadratic Calculator
