@@ -1,8 +1,6 @@
 # singple calculator that shows you the same equations qritten in standard, factored, vertex, and inverse
 # this calculator will tell you the properties of the parbola based on user the user-input
 
-# everything works fine when a>0 except factored form.
-
 import math 
 
 # y = x^2 + 5x + 6, x = -2,-3
